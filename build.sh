@@ -1,0 +1,1 @@
+kaitai-struct-compiler pdf.ksy -t html
